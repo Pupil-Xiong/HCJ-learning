@@ -1,0 +1,63 @@
+tr.b td {
+	font-size: 14px;
+	line-height: 33px;
+	color: white;
+}
+
+tr td,
+a {
+	font-size: 11px;
+	line-height: 33px;
+	color: darkgray;
+	text-decoration: none;
+}
+
+a:link {
+	color: darkgray;
+}
+
+
+a:hover {
+	color: white;
+}
+
+
+body {
+	background-color: #262626;
+	font-family: "arial black";
+}
+
+.pad {
+	margin-left: 120px;
+	margin-top: 0px;
+}
+
+.imgpad {
+	margin-right: 45px;
+}
+
+.right {
+	text-align: right;
+}
+
+input.back {
+	background-color: lightgray;
+}
+
+.darkgray {
+	font-size: 11px;
+	line-height: 33px;
+	color: darkgray;
+	text-decoration: none;
+}
+
+.gray {
+	font-size: 11px;
+	line-height: 33px;
+	color: gray;
+	text-decoration: none;
+}
+
+input:focus {
+	background-color: whitesmoke;
+} 

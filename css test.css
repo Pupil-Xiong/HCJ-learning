@@ -1,0 +1,66 @@
+.colorful {
+	width: 100px;
+	height: 100px;
+	background: linear-gradient(120deg, #40b3ff, #d97aff);
+}
+
+.green {
+	width: 100px;
+	height: 100px;
+	background-color: lightseagreen;
+}
+
+h2 {
+	font-family: "microsoft yahei";
+	font-weight: 700;
+	text-align: center;
+	color: gray;
+}
+
+body {
+	font-size: 16px;
+	/* font-weight: bold; */
+	font-weight: 400;
+	/* 更推荐数字 */
+	line-height: 28px;
+	/* background: linear-gradient(120deg,#40b3ff,#d97aff); */
+}
+
+p {
+	font-family: "arial narrow";
+	color: gray;
+	line-height: 26px
+}
+
+p.sp {
+
+	font: font-style font-weight font-size font-family;
+	font: italic 700 16px "times new roman";
+	/* 复合属性，大小字体不能省 */
+	text-align: center;
+	text-decoration: line-through;
+}
+
+p.text {
+	text-indent: 2em;
+}
+
+a {
+	text-decoration: none;
+}
+
+div.gray {
+	color: gray;
+	text-align: center;
+	font-size: 14px;
+}
+
+.huise {
+	color: gray;
+	width: 80px;
+}
+
+.center {
+	text-align: center;
+
+}
