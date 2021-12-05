@@ -1,0 +1,25 @@
+.nav {
+	height: 41px;
+	border-top: 3px solid #ff8500;
+	border-bottom: 1px solid #edeef0;
+	background-color: #fcfcfc;
+	line-height: 41px;
+
+}
+
+.nav a {
+	display: inline-block;
+	padding: 0px 20px;
+	font-size: 12px;
+	color: black;
+	text-decoration: none;
+}
+
+.nav a:hover {
+	background-color: #EDEEF0;
+	color: #FF8500;
+}
+
+body {
+	font-family: "arial narrow";
+}
