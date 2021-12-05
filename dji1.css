@@ -1,0 +1,21 @@
+div.c {
+	background: url(33.svg) no-repeat ;
+	font-size: 14px;
+	font-family: "arial black";
+	color: whitesmoke;
+	margin-left: 110px;
+	padding: 0px 60px;
+	height:40px;
+	
+}
+body {
+	background-image: url(b9.jpg); 
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+table.e tr{
+	border: 2px solid whitesmoke;
+}
