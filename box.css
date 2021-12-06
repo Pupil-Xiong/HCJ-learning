@@ -1,0 +1,62 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #F5F5F5;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+.box {
+	width: 298px;
+	height: 415px;
+	background-color:#FFFFFF;
+	margin: 100px auto;
+	text-align: center;
+}
+
+.box img {
+	width: 160px;
+	height: 160px;
+}
+
+.review {
+	height: 70px;
+	font-size: 12px;
+	padding: 0 28px;  /* 没有指定盒子的width,所以padding不会撑大盒子 */
+	margin-top: 30px;  /* 指定了height,所以直接改margin */
+	text-align: left;
+}
+
+.appraise {
+	font-size: 12px;
+	color: #b0b0b0;
+	text-align: left;
+	margin-top: 20px;
+	padding: 0 28px;
+}
+
+.info {
+	font-size: 14px;
+	margin-top: 15px;
+	padding: 0 28px;
+	text-align: left;
+}
+.info h4 {
+	display: inline-block;
+	font-weight: 400;
+}
+
+.info span {
+	color: #FF6700;
+}
+
+.info em {
+	font-style: normal;
+	color: #ebe4e0;
+	margin: 0 6px 0 15px;
+}
