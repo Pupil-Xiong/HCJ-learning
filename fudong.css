@@ -1,0 +1,19 @@
+.box {
+	width: 1200px;
+	height: 460px;
+	background-color: gray;
+	margin: 0 auto;
+}
+.left {
+	width: 230px;
+	height: 460px;
+	background-color: #20B2AA;
+	float: left;
+}
+
+.right {
+	width: 970px;
+	height: 460px;
+	background-color: #40B3FF;
+	float: left;
+}
